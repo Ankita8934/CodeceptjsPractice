@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="21.621" tests="6" failures="0" skipped="4">
+  <testsuite name="Root Suite" timestamp="2023-10-20T11:39:02" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="GoogleSearch" timestamp="2023-10-20T11:39:02" tests="1" file="/home/ongraph/Documents/vsCode/codeceptjsPlayWright/GoogleSearch_test.js" time="6.904" failures="0">
+    <testcase name="GoogleSearch: test something" time="6.307" classname="test something">
+    </testcase>
+  </testsuite>
+  <testsuite name="Demo Search" timestamp="2023-10-20T11:39:09" tests="5" file="/home/ongraph/Documents/vsCode/codeceptjsPlayWright/IOnPage_test.js" time="14.714" failures="0">
+    <testcase name="Demo Search: test something" time="14.571" classname="test something">
+    </testcase>
+  </testsuite>
+</testsuites>
